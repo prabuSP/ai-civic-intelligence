@@ -1,0 +1,6 @@
+{
+  "name": "AI Civic Intelligence Platform",
+  "description": "An AI-powered civic governance and complaint-prioritization dashboard allowing citizens and officials to manage complaints, analyze sentiment, and plan ward-level infrastructure budgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
